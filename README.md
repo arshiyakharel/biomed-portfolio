@@ -9,6 +9,9 @@ Welcome! This repository documents my journey in coding and CAD for biomedical d
 - Arduino-based biomedical device prototypes
 - CAD modeling with FreeCAD and other open-source software
 
+## Projects
+1- Heart Rate Monitor 
+
 ## 📁 Repository Structure
 - `/coding-projects` — Python scripts and analysis notebooks
 - `/arduino-projects` — Embedded code for device prototypes
